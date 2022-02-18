@@ -1,0 +1,1 @@
+var buah = ['durian','rambutan','duku','mangga','manggis','salak'];
